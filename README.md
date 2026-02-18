@@ -1,3 +1,4 @@
+![logo](https://github.com/RohiPawar/blob/main/ChatGPT%20Image%20Feb%2018%2C%202026%2C%2002_52_07%20PM.png)
 <h1 align="center">Hi 👋, I'm Rohit Pawar</h1>
 <h3 align="center">learning Python</h3>
 
