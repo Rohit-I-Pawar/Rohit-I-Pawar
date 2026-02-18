@@ -5,10 +5,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit-i-pawar&label=Profile%20views&color=0e75b6&style=flat" alt="rohit-i-pawar" /> </p>
 
+- 🔭 I’m currently working on [Secure-Bank-System](https://github.com/Rohit-I-Pawar/Secure-Bank-System-)
+
 - 🌱 I’m currently learning **Python**
+
+- 📫 How to reach me **rohitpawar00615@gmail.com**
+
+- ⚡ Fun fact **I think i am not Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://fb.com/rohit pawar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rohit pawar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
